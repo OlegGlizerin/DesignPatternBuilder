@@ -11,6 +11,6 @@ public class Main {
         Meal mealVegan = mealBuilderVegan.prepareVegMeal();
         mealVegan.showItems();
         System.out.println("Total cost for vegan meal: " + mealVegan.getCost());
-        
+
     }
 }
