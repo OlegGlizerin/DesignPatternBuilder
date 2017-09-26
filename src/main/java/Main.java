@@ -12,5 +12,6 @@ public class Main {
         mealVegan.showItems();
         System.out.println("Total cost for vegan meal: " + mealVegan.getCost());
 
+
     }
 }
